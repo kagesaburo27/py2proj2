@@ -34,3 +34,4 @@ Django version 4.0.1, using settings 'chart_django_project.settings'
 Starting development server at http://127.0.0.1:8000/
 
 Quit the server with CTRL-BREAK.
+![image](https://user-images.githubusercontent.com/70998876/153472710-5d44c071-f31d-46d1-867e-36c086ab6b6a.png)
